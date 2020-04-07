@@ -30,13 +30,25 @@ class MiniGame(lib.Map):
 
 
 mini_games = [
-    "BuildMarines",  # 900s
-    "CollectMineralsAndGas",  # 420s
-    "CollectMineralShards",  # 120s
     "DefeatRoaches",  # 120s
     "DefeatZerglingsAndBanelings",  # 120s
     "FindAndDefeatZerglings",  # 180s
+    "CollectMineralShards",  # 120s
     "MoveToBeacon",  # 120s
+
+    "BuildMarines",  # 900s
+    "BuildMarinesWithBarracks",
+    "BuildSupplyDepots",
+    "BuildSupplyDepotsHard",
+    "BuildMarines(depot&barracks)",
+    "BuildBarracks",
+    "BuildBarracksHard",
+    "BuildMarinesWithBarracksHard",
+
+    "CollectMineralsAndGas",  # 420s
+    "BuildRefinery",
+    "CollectGasWithRefineries",
+    "BuildRefineryAndCollectGas",
 ]
 
 
