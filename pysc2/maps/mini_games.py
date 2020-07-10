@@ -36,6 +36,8 @@ mini_games = [
     "CollectMineralShards",  # 120s
     "MoveToBeacon",  # 120s
 
+    "ScoutingForNexus", # 120s
+
     "BuildMarines",  # 900s
     "BuildMarinesWithBarracks",
     "BuildSupplyDepots",
@@ -49,8 +51,6 @@ mini_games = [
     "BuildRefinery",
     "CollectGasWithRefineries",
     "BuildRefineryAndCollectGas",
-
-    "ScoutingForNexus", # 120s
 ]
 
 
