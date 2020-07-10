@@ -37,7 +37,7 @@ mini_games = [
     "MoveToBeacon",  # 120s
 
     "ScoutingForNexus", # 120s
-
+    
     "BuildMarines",  # 900s
     "BuildMarinesWithBarracks",
     "BuildSupplyDepots",
