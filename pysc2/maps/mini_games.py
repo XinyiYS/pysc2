@@ -51,6 +51,8 @@ mini_games = [
     "BuildRefinery",
     "CollectGasWithRefineries",
     "BuildRefineryAndCollectGas",
+
+    "ScoutingForNexus",  # 120s
 ]
 
 
