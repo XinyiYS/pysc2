@@ -40,7 +40,7 @@ mini_games = [
     "BuildMarinesWithBarracks",
     "BuildSupplyDepots",
     "BuildSupplyDepotsHard",
-    "BuildMarines_depotbarracks",
+    "BuildMarinesDepotBarracks",
     "BuildBarracks",
     "BuildBarracksHard",
     "BuildMarinesWithBarracksHard",
