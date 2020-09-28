@@ -45,6 +45,10 @@ mini_games = [
     "BuildBarracksHard",
     "BuildMarinesWithBarracksHard",
 
+
+    "BuildRefineryHighReward",
+    "BuildRefineryAndCollectGasHighReward",
+    "BuildSCVs",
     "CollectMineralsAndGas",  # 420s
     "BuildRefinery",
     "CollectGasWithRefineries",
