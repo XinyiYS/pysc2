@@ -53,6 +53,9 @@ mini_games = [
     "BuildRefinery",
     "CollectGasWithRefineries",
     "BuildRefineryAndCollectGas",
+    "CMAGWithRefineriesBuildSCVs",
+    "CMAGBuildRefineriesBuildSCVs",
+    "CMAGWithRefineries",
 ]
 
 
